@@ -5,6 +5,6 @@ I am currently working for and doing very cool things at [@tocco](https://github
 
 My specialties include Java, teaching programming and cooking/eating (mainly) Italian food.
 
-I'm working on personal projects or here on GitHub, hence all the commits into private repositories. I'm not hiding things, I promise!
+I'm working on personal projects here on GitHub or help out friends with their projects, hence all the commits into private repositories. I'm not hiding things, I promise!
 
 If you want to reach me for anything really, send me a message via email: [work@yoinc.ch](mailto:work@yoinc.ch)
