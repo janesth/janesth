@@ -6,5 +6,3 @@ I am doing very cool things at [@srgssr](https://github.com/SRGSSR). Formerly I 
 My specialties include Java, teaching programming, cooking/eating (mainly) Italian food and spending an unreasonable amount of time playing video games. 
 
 I'm working on personal projects here on GitHub or helping out friends with their projects, hence all the commits into private repositories. I'm not hiding things, I promise!
-
-If you want to say hi or ask me something, send me a message via email: [work@yoinc.ch](mailto:work@yoinc.ch)
